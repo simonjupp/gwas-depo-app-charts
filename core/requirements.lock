@@ -1,0 +1,9 @@
+dependencies:
+- name: mongodb-replicaset
+  repository: https://kubernetes-charts.storage.googleapis.com/
+  version: 3.9.6
+- name: kafka
+  repository: http://storage.googleapis.com/kubernetes-charts-incubator
+  version: 0.9.6
+digest: sha256:f2bf7413e35edab8bb073836ae5255832ce07000ef4bc3a6e049de1987f1b122
+generated: "2019-08-13T14:01:08.245974+01:00"
